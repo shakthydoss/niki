@@ -1,7 +1,5 @@
 To train the model.
-
-python process train
+python process.py train
 
 To test the mode.
-
-python process test
+python process.py test
